@@ -51,20 +51,10 @@ O projeto está organizado da seguinte forma:
     ├── images/
     │   ├── .jpeg
     │   ├── .jpeg
-    │   └── .png
+    │   └── .jpeg
     └── audios/
         ├── hit.m4a
-        └── miss.m4a
 ```
-
-## 🚀 Melhorias Futuras
-
-Aqui estão algumas ideias para futuras versões do projeto:
-
--   [ ] Adicionar diferentes níveis de dificuldade.
--   [ ] Salvar recordes (High Scores) no `LocalStorage` do navegador.
--   [ ] Adicionar novas animações e efeitos visuais.
--   [ ] Tornar o design totalmente responsivo para dispositivos móveis.
 
 ## 👨‍💻 Autor
 
